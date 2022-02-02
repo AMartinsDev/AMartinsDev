@@ -15,9 +15,10 @@
 <a href = "mailto:arthursilva0198@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <br><br><br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/AMartinsDev">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=AMartinsDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api?username=AMartinsDev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMartinsDev&layout=compact&langs_count=7&theme=great-gatsby"/>
 <div style="display: inline_block"><br>
 <img align="left" alt="Art-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="left" alt="Art-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -28,10 +29,9 @@
 <img align="left" alt="Art-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img align="left" alt="Art-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
 </div>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMartinsDev&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div><br><br>
   
-
+  
   
 <br>
   
