@@ -1,6 +1,6 @@
 <h1>Hi, I'm Arthur Silva Martins.</h1>
 <hr>
-<h3>Currently Studying Analysis and Developer Systems at IFBA - Salvador, Bahia, Brazil.</h3>
+<h3>Currently Majoring Analysis and Developer Systems at IFBA - Salvador, Bahia, Brazil.</h3>
 <hr>
 
 <h4>Full Stack Developer in Formation 🎯</h4>
