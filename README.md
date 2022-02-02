@@ -1,5 +1,7 @@
-<h3>Hi, I'm Arthur Silva Martins.</h3>
-<h4>Currently Studying Analysis and Developer Systems at IFBA - Salvador, Bahia, Brazil.</h4>
+<h1>Hi, I'm Arthur Silva Martins.</h1>
+<hr>
+<h3>Currently Studying Analysis and Developer Systems at IFBA - Salvador, Bahia, Brazil.</h3>
+<hr>
 
 <h4>Full Stack Developer in Formation 🎯</h4>
 
@@ -28,6 +30,7 @@
 </div>
   
 <br>
+<hr>
   
 ![Snake animation](https://github.com/AMartinsDev/AMartinsDev/blob/output/github-contribution-grid-snake.svg)
   
