@@ -7,7 +7,7 @@
 <h4>Full Stack Developer in Formation 🎯</h4>
 
 - 💎 Improving my knowledge in: Java and Sql;
-- 🌱 I’m currently learning some languages and frameworks ⬇ ; <br>
+- 🌱 I’m currently learning some languages and frameworks ⬇ : <br>
 - HTML, CSS, JS, BootStrap, and soon Python.
 
 <h4>- 📫 How to reach me:</h4>
