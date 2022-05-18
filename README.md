@@ -4,7 +4,7 @@
 
 <img align="right" width="40%" height="40%" src ="https://imgur.com/1Uff4wb.gif"/>
 
-<h4>Full Stack Developer in Formation 🎯</h4>
+<h4>Developer in Formation 🎯</h4>
 
 - 💎 Improving my knowledge in: Java and Sql;
 - 🌱 I’m currently learning some languages and frameworks ⬇ : <br>
