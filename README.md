@@ -6,9 +6,9 @@
 
 <h4>Developer in Formation 🎯</h4>
 
-- 💎 Improving my knowledge in: Java and Sql;
+- 💎 Improving my knowledge in: Java, Sql and Spring.
 - 🌱 I’m currently learning some languages and frameworks ⬇ : <br>
-- HTML, CSS, JS, BootStrap, and soon Python.
+- HTML, CSS, JS, BootStrap and soon Angular.
 
 <h4>- 📫 How to reach me:</h4>
 <a href="https://www.linkedin.com/in/arthur-silva-martins-ba5518225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
